@@ -1,88 +1,48 @@
-<div align="center">
+<h1 align="center">Guilherme Chagas</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff71ce,50:b967ff,100:01cdfe&height=220&section=header&text=Guilherme%20Chagas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ＧｕｉｉＢＣ%20//%20ＤＥＶ%20ＥＭ%20ＦＯＲＭＡÇÃＯ&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas<br/>
+</p>
 
-<a href="https://github.com/GuiiBC">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF71CE&center=true&vCenter=true&width=620&height=45&lines=Bem-vindo+ao+meu+perfil+%E2%9C%A6;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Transformando+caf%C3%A9+em+c%C3%B3digo;Aprendendo+todo+dia+%7C+Evoluindo+sempre" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Visitas](https://komarev.com/ghpvc/?username=GuiiBC&label=VISITAS&color=b967ff&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/GuiiBC?style=for-the-badge&logo=github&color=ff71ce&labelColor=1a0b2e)
-
-</div>
+<p align="center">
+  <a href="https://github.com/GuiiBC"><img src="https://img.shields.io/badge/GitHub-GuiiBC-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-<div align="center">
+## 👨‍💻 Sobre mim
 
-### ✦ ＳＯＢＲＥ ＭＩＭ ✦
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 💻 Foco em lógica de programação, desenvolvimento web e banco de dados
+- 🐧 Aprendendo Linux, redes e back-end
 
-</div>
+## 🛠️ Tecnologias
 
-```ts
-const guilherme = {
-  usuario:   "GuiiBC",
-  nome:      "Guilherme Chagas",
-  curso:     "Análise e Desenvolvimento de Sistemas",
-  status:    "estudando e construindo projetos 🌴",
-  foco:      ["lógica de programação", "back-end", "bancos de dados", "web"],
-  vibe:      "synthwave no fone, terminal aberto ✦",
-  objetivo:  "virar dev profissional e nunca parar de aprender"
-};
-```
+**Linguagens**
 
----
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<div align="center">
+**Web**
 
-### ✦ ＳＴＡＣＫ ✦
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://img.shields.io/badge/C-b967ff?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-ff71ce?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-01cdfe?style=for-the-badge&logo=python&logoColor=1a0b2e" />
-<img src="https://img.shields.io/badge/HTML5-ff71ce?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-b967ff?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-fffb96?style=for-the-badge&logo=javascript&logoColor=1a0b2e" />
-<img src="https://img.shields.io/badge/MySQL-01cdfe?style=for-the-badge&logo=mysql&logoColor=1a0b2e" />
-<img src="https://img.shields.io/badge/Linux-05ffa1?style=for-the-badge&logo=linux&logoColor=1a0b2e" />
+**Banco de dados e sistemas**
 
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GuiiBC&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiBC&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+## 📫 Vamos conversar?
 
-### ✦ ＥＳＴＡＴÍＳＴＩＣＡＳ ✦
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuiiBC&show_icons=true&hide_border=true&bg_color=1a0b2e&title_color=ff71ce&text_color=01cdfe&icon_color=05ffa1&ring_color=b967ff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiBC&layout=compact&hide_border=true&bg_color=1a0b2e&title_color=ff71ce&text_color=01cdfe" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=GuiiBC&background=1a0b2e&ring=ff71ce&fire=ff71ce&currStreakLabel=01cdfe&sideLabels=b967ff&currStreakNum=05ffa1&sideNums=05ffa1&dates=fffb96&border=b967ff" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✦ ＣＯＮＴＡＴＯ ✦
-
-<a href="https://github.com/GuiiBC"><img src="https://img.shields.io/badge/GitHub-GuiiBC-1a0b2e?style=for-the-badge&logo=github&logoColor=ff71ce&color=ff71ce" /></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Chagas-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=01cdfe&color=01cdfe" /></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-Enviar-1a0b2e?style=for-the-badge&logo=gmail&logoColor=05ffa1&color=05ffa1" /></a>
-
-<br/><br/>
-
-```
-╔══════════════════════════════════════════╗
-║   ＡＥＳＴＨＥＴＩＣ  ＣＯＤＥ  ＩＳ  ＬＩＦＥ   ║
-╚══════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01cdfe,50:b967ff,100:ff71ce&height=120&section=footer" width="100%" />
-
-</div>
+Fique à vontade para entrar em contato, trocar ideia sobre tecnologia ou sugerir melhorias nos meus projetos.
