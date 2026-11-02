@@ -36,13 +36,3 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GuiiBC&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiBC&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-## 📫 Vamos conversar?
-
-Fique à vontade para entrar em contato, trocar ideia sobre tecnologia ou sugerir melhorias nos meus projetos.
