@@ -1,5 +1,3 @@
-<h1 align="center">Guilherme Chagas</h1>
-
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas<br/>
 </p>
